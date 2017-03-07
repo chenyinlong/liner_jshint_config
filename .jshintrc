@@ -1,0 +1,17 @@
+{
+  "bitwise": true,
+  "curly": true,
+  "eqeqeq": true,
+  "esversion": 3,
+  "funcscope": true,
+  "futurehostile": true,
+  "latedef": true,
+  "nonbsp": true,
+  "nonew": true,
+  "undef": true,
+  "unused": true,
+  "expr": true,
+  "funcscope": true,
+  "devel": true,
+  "node": true
+}
